@@ -15,25 +15,33 @@
     
     ## Installation 
     
-    cho
+    e
     
     ## Usage 
     
-    uqs
+    w
     
     ## Contributing 
     
-    sade
+    w
     
   
     
     ## License
-    [![License: GPL v3](https://img.shields.io/badge/License-GNU GPLv3-grey)](https://www.gnu.org/licenses/gpl-3.0)
+    ![Apache License 2.0 License](https://img.shields.io/badge/license-Apache%20License%202.0-blue)
+
+heo © is licensed under the Apache License 2.0 license.  
+
+For more information regarding the heo's license, please visit: 
+https://opensource.org/licenses/Apache License 2.0
+
     
     
     ## Questions?
     
-    ### Github:  [khoiphan9194](https://github.com/khoiphan9194)
+    ### Github:  [e](https://github.com/e)
     
-    ### Reach Me Via Email: jasonphan
+    ### Reach Me Via Email: r
+
  
+    
