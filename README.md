@@ -36,7 +36,8 @@
    [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
    [![License: ISC](https://img.shields.io/badge/MIT-blue)]
-   
+
+   [![License: ISC](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/ISC)
 
 
 e © is licensed under the MIT license.  
