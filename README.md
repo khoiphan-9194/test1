@@ -1,4 +1,15 @@
-# cun
+# generate readme.md
+  ![badge](https://img.shields.io/github/languages/top/khoiphan9194/test1)
+  <br> 
+  ![badge](https://img.shields.io/github/languages/count/khoiphan9194/test1)
+  <br>
+  ![badge](https://img.shields.io/github/issues/khoiphan9194/test1)
+  <br>
+  ![badge](https://img.shields.io/github/issues-closed/khoiphan9194/test1)
+  <br>
+  ![badge](https://img.shields.io/github/last-commit/khoiphan9194/test1)
+  <br>
+  ![badge](https://img.shields.io/badge/license-Apache-important)
 ## Table of Contents
   
 - [Description](#description)
@@ -11,33 +22,33 @@
   
 ## Description 
   
-map
+readme
   
 ## Installation 
   
-oi
+idk
   
 ## Usage 
   
-dang
+idk
   
 ## Contributing 
   
-heo
+idk
   
 
   
 ## License
 [![License: Apache](https://img.shields.io/badge/license-Apache-yellow)](https://opensource.org/licenses/Apache-2.0)
 
-cun © is licensed under the Apache license.  
+generate readme.md © is licensed under the Apache license.  
 
-For more information regarding the cun's license, please visit: 
+For more information regarding the generate readme.md's license, please visit: 
 https://opensource.org/licenses/Apache
 
   
 ## Questions?
   
-### Github:[ew](https://github.com/ew)
+### Github:[khoiphan9194](https://github.com/khoiphan9194)
   
-### Reach Me Via Email: e
+### Reach Me Via Email: phanminhkhoi91@gmail.com
