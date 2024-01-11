@@ -1,5 +1,5 @@
 # e
-    [![General badge](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://shields.io/)
+   ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
     ## Table of Contents
     
     - [Description](#description)
