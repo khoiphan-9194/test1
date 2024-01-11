@@ -15,33 +15,33 @@
     
     ## Installation 
     
-    e
+    cho
     
     ## Usage 
     
-    w
+    cay
     
     ## Contributing 
     
-    w
+    qq
     
   
     
     ## License
-    ![Apache License 2.0 License](https://img.shields.io/badge/license-Apache%20License%202.0-blue)
+    ![License](https://img.shields.io/badge/license-MIT-blue)
 
-heo © is licensed under the Apache License 2.0 license.  
+heo © is licensed under the MIT license.  
 
 For more information regarding the heo's license, please visit: 
-https://opensource.org/licenses/Apache License 2.0
+https://opensource.org/licenses/MIT
 
     
     
     ## Questions?
     
-    ### Github:  [e](https://github.com/e)
+    ### Github:  [w](https://github.com/w)
     
-    ### Reach Me Via Email: r
+    ### Reach Me Via Email: e
 
  
     
