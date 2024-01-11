@@ -34,6 +34,8 @@
    ![example workflow](https://img.shields.io/badge/license-Apache%20License%202.0-blue)
 
    [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+   [![License: ISC](https://img.shields.io/badge/MIT-blue)]
    
 
 
