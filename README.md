@@ -1,4 +1,5 @@
 # e
+    [![General badge](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://shields.io/)
     ## Table of Contents
     
     - [Description](#description)
@@ -19,16 +20,16 @@
     
     ## Usage 
     
-    a
+    e
     
     ## Contributing 
     
-    2
+    0r
     
   
     
     ## License
-    [![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+    [![General badge](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://shields.io/)
 
 e © is licensed under the MIT license.  
 
@@ -39,9 +40,9 @@ https://opensource.org/licenses/MIT
     
     ## Questions?
     
-    ### Github:  [r](https://github.com/r)
+    ### Github:  [w](https://github.com/w)
     
-    ### Reach Me Via Email: a
+    ### Reach Me Via Email: q
 
  
     
