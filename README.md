@@ -1,57 +1,45 @@
-# e
-   ![example workflow](https://img.shields.io/badge/license-Apache%20License%202.0-blue)
-
-    ## Table of Contents
+# readme
+## Table of Contents
     
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [License](#license)
-    - [Questions](#questions)
+ - [Description](#description)
+ - [Installation](#installation)
+ - [Usage](#usage)
+ - [Contributing](#contributions)
+ - [Tests](#tests)
+ - [License](#license)
+ - [Questions](#questions)
     
-    ## Description 
+## Description 
     
-    w
+readme generate
     
-    ## Installation 
+## Installation 
     
-    q
+N?A
     
-    ## Usage 
+## Usage 
     
-    e
+npm
     
-    ## Contributing 
+## Contributing 
     
-    0r
+i don't know
     
   
     
     ## License
-   ![General badge](https://img.shields.io/badge/License-EPL_1.0-red.svg)(https://shields.io/)
-   ![example workflow](https://img.shields.io/badge/license-Apache%20License%202.0-blue)
+[![License: ISC](https://img.shields.io/badge/license-ISC-red)](https://opensource.org/licenses/ISC)
 
-   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+readme © is licensed under the ISC license.  
 
-   [![License: ISC](https://img.shields.io/badge/MIT-blue)]
-
-   [![License: ISC](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/ISC)
-
-
-e © is licensed under the MIT license.  
-
-For more information regarding the e's license, please visit: 
-https://opensource.org/licenses/MIT
+For more information regarding the readme's license, please visit: 
+https://opensource.org/licenses/ISC
 
     
+## Questions?
     
-    ## Questions?
+### Github:  [khoiphan9194](https://github.com/khoiphan9194)
     
-    ### Github:  [w](https://github.com/w)
-    
-    ### Reach Me Via Email: q
+### Reach Me Via Email: phanminhkhoi91@gmail.com
 
- 
     
