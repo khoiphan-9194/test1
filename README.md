@@ -30,7 +30,9 @@
   
     
     ## License
-    [![General badge](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://shields.io/)
+    [![General badge](https://img.shields.io/badge/License-EPL_1.0-red.svg)(https://shields.io/)
+      ![example workflow](https://img.shields.io/badge/license-Apache%20License%202.0-blue)
+
 
 e © is licensed under the MIT license.  
 
