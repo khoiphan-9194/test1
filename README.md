@@ -1,5 +1,6 @@
 # e
-   ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+   ![example workflow](https://img.shields.io/badge/license-Apache%20License%202.0-blue)
+
     ## Table of Contents
     
     - [Description](#description)
