@@ -40,9 +40,10 @@ bi
 
 ## Screenshots 
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./assets/1.JPG)  
+![A user clicks on slots on the color-coded calendar and edits the events.](.Node/Develop/assets/1.JPG)  
+![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
-  
+
 ## License
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
