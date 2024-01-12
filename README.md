@@ -1,5 +1,5 @@
 # khoi
-  ![badge](https://img.shields.io/badge/languages--yellow)
+  ![badge](https://img.shields.io/badge/languages-CSS,JavaScript,Node.js,Express.js-yellow)
   <br> 
   ![badge](https://img.shields.io/github/issues/khoiphan-9194/test1)
   <br>
@@ -21,7 +21,7 @@
   
 ## Description 
   
-readme generate
+readme
   
 ## Installation 
   
@@ -33,10 +33,14 @@ idk
 
 ## Language Built
 
+* CSS
+* JavaScript
+* Node.js
+* Express.js
   
 ## Contributing 
   
-none
+idk
 
 ## Screenshots 
 
@@ -56,4 +60,4 @@ https://opensource.org/licenses/Apache
   
 ### Github:[khoiphan-9194](https://github.com/khoiphan-9194)
   
-### Reach Me Via Email: phanminhkhoi91@gmail.com
+### Reach Me Via Email: jasonphan9194@gmail.com
