@@ -1,14 +1,14 @@
-# 2
-  ![badge](https://img.shields.io/badge/languages-HTML,CSS,SASS-yellow)
+# khoi
+  ![badge](https://img.shields.io/badge/languages--yellow)
   <br> 
-  ![badge](https://img.shields.io/github/issues/2/4)
+  ![badge](https://img.shields.io/github/issues/4/32)
   <br>
-  ![badge](https://img.shields.io/github/issues-closed/2/4)
+  ![badge](https://img.shields.io/github/issues-closed/4/32)
   <br>
-  ![badge](https://img.shields.io/github/last-commit/2/4)
+  ![badge](https://img.shields.io/github/last-commit/4/32)
   <br>
 
-  [![Issues](https://img.shields.io/github/contributors/2/4)](https://github.com/2/4/graphs/contributors)
+  [![Issues](https://img.shields.io/github/contributors/4/32)](https://github.com/4/32/graphs/contributors)
 ## Table of Contents
   
 - [Description](#description)
@@ -21,11 +21,11 @@
   
 ## Description 
   
-3
+bi
   
 ## Installation 
   
-5
+4
   
 ## Usage 
   
@@ -33,27 +33,27 @@
 
 ## Language Built
 
-* HTML
-* CSS
-* SASS
   
 ## Contributing 
   
 3
-  
+
+## Screenshots 
+
+![A user clicks on slots on the color-coded calendar and edits the events.](./assets/1.JPG)  
 
   
 ## License
-[![License: GPLv3](https://img.shields.io/badge/license-GPLv3-grey)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
-2 © is licensed under the GPLv3 license.  
+khoi © is licensed under the MIT license.  
 
-For more information regarding the 2's license, please visit: 
-https://opensource.org/licenses/GPLv3
+For more information regarding the khoi's license, please visit: 
+https://opensource.org/licenses/MIT
 
   
 ## Questions?
   
-### Github:[2](https://github.com/2)
+### Github:[4](https://github.com/4)
   
-### Reach Me Via Email: 4
+### Reach Me Via Email: 3
