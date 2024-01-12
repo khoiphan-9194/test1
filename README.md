@@ -1,14 +1,14 @@
 # khoi
   ![badge](https://img.shields.io/badge/languages--yellow)
   <br> 
-  ![badge](https://img.shields.io/github/issues/4/32)
+  ![badge](https://img.shields.io/github/issues/khoiphan-9194/test1)
   <br>
-  ![badge](https://img.shields.io/github/issues-closed/4/32)
+  ![badge](https://img.shields.io/github/issues-closed/khoiphan-9194/test1)
   <br>
-  ![badge](https://img.shields.io/github/last-commit/4/32)
+  ![badge](https://img.shields.io/github/last-commit/khoiphan-9194/test1)
   <br>
 
-  [![Issues](https://img.shields.io/github/contributors/4/32)](https://github.com/4/32/graphs/contributors)
+  [![Issues](https://img.shields.io/github/contributors/khoiphan-9194/test1)](https://github.com/khoiphan-9194/test1/graphs/contributors)
 ## Table of Contents
   
 - [Description](#description)
@@ -21,40 +21,39 @@
   
 ## Description 
   
-bi
+readme generate
   
 ## Installation 
   
-4
+npm
   
 ## Usage 
   
-5
+idk
 
 ## Language Built
 
   
 ## Contributing 
   
-3
+none
 
 ## Screenshots 
 
-![A user clicks on slots on the color-coded calendar and edits the events.](.Node/Develop/assets/1.JPG)  
+![A user clicks on slots on the color-coded calendar and edits the events.](./1.JPG)  
 
-
-
+  
 ## License
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+[![License: Apache](https://img.shields.io/badge/license-Apache-yellow)](https://opensource.org/licenses/Apache-2.0)
 
-khoi © is licensed under the MIT license.  
+khoi © is licensed under the Apache license.  
 
 For more information regarding the khoi's license, please visit: 
-https://opensource.org/licenses/MIT
+https://opensource.org/licenses/Apache
 
   
 ## Questions?
   
-### Github:[4](https://github.com/4)
+### Github:[khoiphan-9194](https://github.com/khoiphan-9194)
   
-### Reach Me Via Email: 3
+### Reach Me Via Email: phanminhkhoi91@gmail.com
