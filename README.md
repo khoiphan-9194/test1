@@ -1,14 +1,14 @@
-# 1
-  ![badge](https://img.shields.io/badge/languages-SASS-yellow)
+# bi heo
+  ![badge](https://img.shields.io/badge/languages--yellow)
   <br> 
-  ![badge](https://img.shields.io/github/issues/4/3)
+  ![badge](https://img.shields.io/github/issues/khoiphan-9194/idk)
   <br>
-  ![badge](https://img.shields.io/github/issues-closed/4/3)
+  ![badge](https://img.shields.io/github/issues-closed/khoiphan-9194/idk)
   <br>
-  ![badge](https://img.shields.io/github/last-commit/4/3)
+  ![badge](https://img.shields.io/github/last-commit/khoiphan-9194/idk)
   <br>
 
-  [![Issues](https://img.shields.io/github/contributors/4/3)](https://github.com/4/3/graphs/contributors)
+  [![Issues](https://img.shields.io/github/contributors/khoiphan-9194/idk)](https://github.com/khoiphan-9194/idk/graphs/contributors)
 ## Table of Contents
   
 - [Description](#description)
@@ -21,39 +21,40 @@
   
 ## Description 
   
-2
+ko bik
   
 ## Installation 
   
-1
+idk
   
 ## Usage 
   
-2
+npm
 
 ## Language Built
 
-* SASS
   
 ## Contributing 
   
-2
+idk
 
 ## Screenshots 
 
-![A user clicks on slots on the color-coded calendar and edits the events](./1.JPG)
+![A user clicks on slots on the color-coded calendar and edits the events](./1.jpg)
+![A user clicks on slots on the color-coded calendar and edits the events](./2.jpg)
+
   
 ## License
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+[![License: GPLv3](https://img.shields.io/badge/license-GPLv3-grey)](https://www.gnu.org/licenses/gpl-3.0)
 
-1 © is licensed under the MIT license.  
+bi heo © is licensed under the GPLv3 license.  
 
-For more information regarding the 1's license, please visit: 
-https://opensource.org/licenses/MIT
+For more information regarding the bi heo's license, please visit: 
+https://opensource.org/licenses/GPLv3
 
   
 ## Questions?
   
-### Github:[4](https://github.com/4)
+### Github:[khoiphan-9194](https://github.com/khoiphan-9194)
   
-### Reach Me Via Email: 2
+### Reach Me Via Email: phanminhkhoi91@gmail.com
